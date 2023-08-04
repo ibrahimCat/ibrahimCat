@@ -1,6 +1,6 @@
 ## Hello, I'm İbrahim Çatal! 👋
 
-- 💻 I’m currently working as a Full Stack Developer 📶 
+- 💻 I’m currently working as a Full Stack Developer.
 - 🌱 I’m currently learning Python & Spring.
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/ibrahim-%C3%A7atal-b68649250/
 
